@@ -1,0 +1,11 @@
+C:\Users\1025308\source\repos\palindromic\palindromic\bin\Debug\netcoreapp2.1\palindromic.deps.json
+C:\Users\1025308\source\repos\palindromic\palindromic\bin\Debug\netcoreapp2.1\palindromic.runtimeconfig.json
+C:\Users\1025308\source\repos\palindromic\palindromic\bin\Debug\netcoreapp2.1\palindromic.runtimeconfig.dev.json
+C:\Users\1025308\source\repos\palindromic\palindromic\bin\Debug\netcoreapp2.1\palindromic.dll
+C:\Users\1025308\source\repos\palindromic\palindromic\bin\Debug\netcoreapp2.1\palindromic.pdb
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.csprojAssemblyReference.cache
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.csproj.CoreCompileInputs.cache
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.AssemblyInfoInputs.cache
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.AssemblyInfo.cs
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.dll
+C:\Users\1025308\source\repos\palindromic\palindromic\obj\Debug\netcoreapp2.1\palindromic.pdb
